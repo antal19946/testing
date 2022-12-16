@@ -1,0 +1,68 @@
+const TestQuastion = [
+    [
+        {
+            Module: 'Module 1',
+            quastion: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+            ans: 'Lorem ipsum dolor right',
+            option_1: 'Lorem ipsum dolor',
+            option_2: 'Lorem ipsum dolor',
+            option_3: 'Lorem ipsum dolor',
+            option_4: 'Lorem ipsum dolor right',
+        },
+        {
+            Module: 'Module 1',
+            quastion: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+            ans: 'Lorem ipsum dolor right',
+            option_1: 'Lorem ipsum dolor',
+            option_2: 'Lorem ipsum dolor',
+            option_3: 'Lorem ipsum dolor',
+            option_4: 'Lorem ipsum dolor right',
+        },
+        {
+            Module: 'Module 1',
+            quastion: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+            ans: 'Lorem ipsum dolor right',
+            option_1: 'Lorem ipsum dolor',
+            option_2: 'Lorem ipsum dolor',
+            option_3: 'Lorem ipsum dolor',
+            option_4: 'Lorem ipsum dolor right',
+        },
+        {
+            Module: 'Module 1',
+            quastion: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+            ans: 'Lorem ipsum dolor right',
+            option_1: 'Lorem ipsum dolor',
+            option_2: 'Lorem ipsum dolor',
+            option_3: 'Lorem ipsum dolor',
+            option_4: 'Lorem ipsum dolor right',
+        },
+        {
+            Module: 'Module 1',
+            quastion: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+            ans: 'Lorem ipsum dolor right',
+            option_1: 'Lorem ipsum dolor',
+            option_2: 'Lorem ipsum dolor',
+            option_3: 'Lorem ipsum dolor',
+            option_4: 'Lorem ipsum dolor right',
+        },
+        {
+            Module: 'Module 1',
+            quastion: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+            ans: 'Lorem ipsum dolor right',
+            option_1: 'Lorem ipsum dolor',
+            option_2: 'Lorem ipsum dolor',
+            option_3: 'Lorem ipsum dolor',
+            option_4: 'Lorem ipsum dolor right',
+        },
+        {
+            Module: 'Module 1',
+            quastion: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+            ans: 'Lorem ipsum dolor right',
+            option_1: 'Lorem ipsum dolor',
+            option_2: 'Lorem ipsum dolor',
+            option_3: 'Lorem ipsum dolor',
+            option_4: 'Lorem ipsum dolor right',
+        },
+    ]
+]
+export default TestQuastion;

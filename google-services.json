@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "475716518966",
+      "project_id": "farmkonnect-cc177",
+      "storage_bucket": "farmkonnect-cc177.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:475716518966:android:306b625e89467237f90497",
+          "android_client_info": {
+            "package_name": "com.lenterafrica.farmkonnect"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "475716518966-gtion36nq9v0lufuacuqeiut70eq9j42.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBoizOEiM0w9sTXlyH874Mqf9XdQEDebSo"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "475716518966-gtion36nq9v0lufuacuqeiut70eq9j42.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
